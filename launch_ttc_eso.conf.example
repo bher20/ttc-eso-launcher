@@ -1,0 +1,9 @@
+{
+  "ttc": {
+    "bin_path": "C:\\Users\\public\\Documents\\Elder Scrolls Online\\live\\AddOns\\TamrielTradeCentre\\Client\\Client.exe",
+    "process_name": "Client"
+  },
+  "eso": {
+    "bin_path": "C:\\Program Files\\Zenimax Online\\The Elder Scrolls Online\\game\\client\\eso64.exe"
+  }
+}
