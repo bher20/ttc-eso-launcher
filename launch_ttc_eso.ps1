@@ -1,4 +1,12 @@
 #
+# Summary: Automatically launches the TTC client then Elder Scrolls Online. Once ESO is stopped, the TTC client is automatically stopped.
+#
+# Authors: Bradley Herring <brad@bherville.com>
+#
+
+
+
+#
 # Parameters
 #
 
